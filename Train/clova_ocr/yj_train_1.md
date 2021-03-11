@@ -25,7 +25,3 @@
  
  ![11](https://user-images.githubusercontent.com/25381921/110720380-ca202c00-8251-11eb-9f33-a6ca3c7738d9.png)
 
- ### * 오류 발견
- predict 하는 두 파일에서 서로 결과가 다르게 나온다... 확인이 필요
- 
- ![11](https://user-images.githubusercontent.com/25381921/110721763-7d8a2000-8254-11eb-8493-f1d7eee225ce.png)
