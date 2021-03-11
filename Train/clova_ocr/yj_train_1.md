@@ -28,4 +28,4 @@
  ### * 오류 발견
  predict 하는 두 파일에서 서로 결과가 다르게 나온다... 확인이 필요
  
- ![11](https://user-images.githubusercontent.com/25381921/110721299-9c3be700-8253-11eb-8749-d472eef6b31a.png)
+ ![11](https://user-images.githubusercontent.com/25381921/110721763-7d8a2000-8254-11eb-8493-f1d7eee225ce.png)
