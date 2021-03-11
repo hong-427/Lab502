@@ -24,3 +24,8 @@
  102개중 5개 이미지 오답
  
  ![11](https://user-images.githubusercontent.com/25381921/110720380-ca202c00-8251-11eb-9f33-a6ca3c7738d9.png)
+
+ ### * 오류 발견
+ predict 하는 두 파일에서 서로 결과가 다르게 나온다... 확인이 필요
+ 
+ ![11](https://user-images.githubusercontent.com/25381921/110721299-9c3be700-8253-11eb-8749-d472eef6b31a.png)
