@@ -1,6 +1,6 @@
 # CLOVA OCR 기반 한글데이터 훈련
 
-##> 환경
+> ## 환경
  * Transformation | TPS
  * FeatureExtraction | VGG
  * SequenceModeling | BiLSTM
